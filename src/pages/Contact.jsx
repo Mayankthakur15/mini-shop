@@ -40,7 +40,7 @@ export default function Contact() {
               </div>
               <div>
                 <p className="text-xs text-gray-400 font-medium">Email Support</p>
-                <p className="text-sm font-semibold text-gray-800">thakurmayank@gmail.com</p>
+                <p className="text-sm font-semibold text-gray-800">thakurelectronics@gmail.com</p>
               </div>
             </div>
 
